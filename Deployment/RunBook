@@ -1,0 +1,9 @@
+Execution order (seqentially) for deployment as below:
+
+1. Run \\DDL\MASTER_Dev2Prod_scriptsql
+2. Run \\DML\GRS_NO.sql
+3. Run \\DATAMART\RolesandUsers.sql
+4. Run \\DATAMART\SIS_VIEWS.sql
+5. Apply implementations as per "Snowflake Creation and Provisioning for ROLES   and USERS_V1.0.docx"
+6. Import json from \\Matillion\GRS_NO.json to target matillion environment 
+7. Follow migration steps (manually)

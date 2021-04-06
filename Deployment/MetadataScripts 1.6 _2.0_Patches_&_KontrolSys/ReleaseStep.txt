@@ -1,0 +1,36 @@
+
+-- *** Matillion Metadata 1.6 ****--
+
+C:\Backup\Securitas\EU\GRSNO Matillion Metadata Feb 2021\1.6\
+
+a) Metadata Table DDL.sql
+
+-- *** Matillion Metadata 1.6 Patch 1 ****--
+-- * CUSTOMER_RESTRICTED_DATA added additional condition for GRS 1.6
+-- * RERANKING the RESTRICTEDTABLE_RANK values for GRS 1.6
+
+C:\Backup\Securitas\EU\GRSNO Matillion Metadata Feb 2021\1.6 Patch\
+
+a) Restricted Customer 1.6.sql
+
+
+
+-- *** Matillion Metadata 1.6 Patch 2 ****--
+ C:\Backup\Securitas\EU\GRSNO Matillion Metadata Feb 2021\1.6 Patch\Orphan 1.6\OrphanDeletion_scripts.sql
+
+--- Orphan record Deletion both pipeline and Metadata table alter and updates, view chnages
+a) OrphanDataDeletion.json
+b) OrphanDeletion_scripts.sql
+
+
+-- *** Matillion Metadata 2.0 ****--
+C:\Backup\Securitas\EU\GRSNO Matillion Metadata Feb 2021\2.0
+
+Matillion_MetadataScript_GRS2.0.sql
+
+-- *** Matillion Metadata Kontrolsys ****--
+
+C:\Backup\Securitas\EU\GRSNO Matillion Metadata Feb 2021\KontrolSys
+
+KontrolSys_Matillion_MetaDataReleaseScripts.sql
+KONTROLSYS.json
